@@ -1,4 +1,4 @@
-%pegah shabani
+
 %initioalization
 %init(:,3)=age
 %init(:,4)=fittness
