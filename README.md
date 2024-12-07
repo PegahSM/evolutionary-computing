@@ -1,2 +1,2 @@
 # evolutionary-computing
-projects of evolutionary computing course 
+projects and assignments of evolutionary computing course 
