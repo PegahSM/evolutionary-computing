@@ -1,4 +1,4 @@
-%mygenetic
+%genetic algorithm
 %initialization
 popsize=100;
 %2Simentional test function
